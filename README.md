@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/thales-fratarcangeli-44349735b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:thalesfratar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -50,7 +50,7 @@ Transito entre **desenvolvimento de software** e **contabilidade/rotina fiscal**
 | 📦 [**mini-erp-estoque-contabil**](https://github.com/thales-fratarcangeli/mini-erp-estoque-contabil) | Mini-ERP onde cada movimentação de estoque gera automaticamente os lançamentos contábeis em partidas dobradas (custo médio, CMV, livro razão balanceado) | `Python` `SQL` `SQLite` |
 | 📈 [**dashboard-indicadores-fiscais**](https://github.com/thales-fratarcangeli/dashboard-indicadores-fiscais) | Dashboard de indicadores financeiros (lucro líquido, margem, carga tributária) com relatório em terminal e HTML/SVG | `Python` |
 
-📌 *Outros projetos pessoais (não relacionados à área contábil):* SaaS para restaurantes (Flutter + PostgreSQL), ERP escolar via bot do Telegram com integração Mercado Pago, sistema de rastreio de pedidos web, e a marca de software freelance **FirmaDev**.
+📌 *Outros projetos pessoais (não relacionados à área contábil):* SaaS para restaurantes (Flutter + PostgreSQL), ERP escolar via bot do Telegram com integração Mercado Pago e sistema de rastreio de pedidos web.
 
 ## 📊 Estatísticas
 
@@ -62,5 +62,4 @@ Transito entre **desenvolvimento de software** e **contabilidade/rotina fiscal**
 ## 📫 Contato
 
 - ✉️ **E-mail:** thalesfratar@gmail.com
-- 💼 **LinkedIn:** _adicione o link do seu perfil aqui_
-- 🌐 **FirmaDev:** _adicione o link, se tiver site/página_
+- 💼 **LinkedIn:** [thales-fratarcangeli](https://www.linkedin.com/in/thales-fratarcangeli-44349735b/)
