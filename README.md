@@ -24,36 +24,15 @@ Transito entre **desenvolvimento de software** e **contabilidade/rotina fiscal**
 
 ## Stack principal
 
-**Linguagens**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=delphi&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-</p>
-
-**Frameworks, bancos e ferramentas**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Firebird-F40F02?style=flat&logo=firebird&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=delphi&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white">
 </p>
 
 **Domínio de negócio:** Implantação de ERP · Escrituração contábil e fiscal · Omie & Contimatic · Apuração de impostos (Simples Nacional, ICMS, ISS)
@@ -75,7 +54,7 @@ Transito entre **desenvolvimento de software** e **contabilidade/rotina fiscal**
 | Projeto | O que faz | Stack |
 |---|---|---|
 | 🏭 [**sistema_tic**](https://github.com/thales-fratarcangeli/sistema_tic) | Sistema local para fábrica de fitas: pedidos, ordens de produção, estoque e expedição — versão desktop e web | `TypeScript` `React` `Electron` `Prisma` |
-| 🏗️ [**deplhi_mini_erp**](https://github.com/thales-fratarcangeli/deplhi_mini_erp) | ERP industrial de estudo: estoque, pedidos e PCP com BOM multinível, ordens de produção e custeio padrão × real | `Delphi` `Firebird` |
+| 🏗️ [**delphi_mini_erp**](https://github.com/thales-fratarcangeli/delphi_mini_erp) | ERP industrial de estudo: estoque, pedidos e PCP com BOM multinível, ordens de produção e custeio padrão × real | `Delphi` `Firebird` |
 | 🧾 [**delphi_teste**](https://github.com/thales-fratarcangeli/delphi_teste) | ERP didático com launcher, login, módulos MDI e cadastro de notas fiscais | `Delphi` `Firebird` |
 | ⚓ [**ancoragem**](https://github.com/thales-fratarcangeli/ancoragem) | Ponte na rede local entre o PC do técnico e a máquina do cliente: um único `.exe` com pareamento por código | `Go` |
 | 🍽️ [**restaurante-integrado**](https://github.com/thales-fratarcangeli/restaurante-integrado) | Sistema de gerenciamento de restaurante | `HTML` `CSS` `JavaScript` |
